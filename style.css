@@ -10,12 +10,6 @@
 .right{
     margin: 20px;
 }
-/* .question{
-    border: 2px dotted black;
-    width: 90%;
-    margin:auto;
-    display: flex;
-    justify-content: center; */
 
 .ques{
     font-size: 20px;
@@ -51,36 +45,3 @@ button {
     width: 80%;
     margin: 0 auto;
 }
-
-
-/* *{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    border: 0;
-}
-.pri-bg-col{
-    background-color:#5f1782 !important;
-} 
-.bor-col{
-    border-color: #5f1782 !important;
-
-}  
-.pri-text-col{
-    color:#5f1782  !important;
-}
-.sec-bg-col{
-    background-color: whitesmoke !important;
-}
-.right{
-    margin: 20px;
-}
-.ques{
-    font-size: 20px;
-}
-.left{
-    margin-top: 20px;
-}
-.input{
-    border: 1px solid black;
-}++
