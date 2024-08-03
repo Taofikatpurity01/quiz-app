@@ -79,7 +79,7 @@ const quizData = [
   function loadQuestion() {
     const currentQuestion = quizData[currentQuestionIndex];
     dataView.innerHTML = `
-      <div class="question d-flex flex-column justify-content-center">
+      <div class="question d-flex flex-column flex-wrap justify-content-center">
         <div class="right col-5 py-5 px-5 shadow gap-3">
           <h1 class="ques">${currentQuestion.question}</h1>
           <select name="select" id="select-item" class="w-100 py-3">
